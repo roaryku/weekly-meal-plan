@@ -106,5 +106,13 @@ textarea{
     margin-left: 20px;
     width: 75%;
   }
+    .selected{
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  .default{
+    margin-left: 10px;
+    margin-right: 10px;
+  }
 
 }
